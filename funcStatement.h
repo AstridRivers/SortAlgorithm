@@ -4,6 +4,7 @@
 void BubbleSort(int*, int);//Ã°ÅİÅÅĞò
 void SelectionSort(int*, int);//Ñ¡ÔñÅÅĞò
 void InsertionSort(int*, int);//²åÈëÅÅĞò
+void ShellSort(int*, int);//Ï£¶ûÅÅĞò
 void display(const int*,int);//±éÀúÊı×é
 
 #endif // !__FUNCSTATEMENT_H_

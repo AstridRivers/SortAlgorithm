@@ -9,6 +9,7 @@ int main() {
 	//SelectionSort(arr, len);
 	display(arr, len);
 	InsertionSort(arr, len);
+	ShellSort(arr, len);
 	display(arr,len);
 	return 0;
 }
