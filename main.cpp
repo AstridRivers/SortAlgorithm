@@ -8,8 +8,9 @@ int main() {
 	//BubbleSort(arr, len);
 	//SelectionSort(arr, len);
 	display(arr, len);
-	InsertionSort(arr, len);
-	ShellSort(arr, len);
+	//InsertionSort(arr, len);
+	//ShellSort(arr, len);
+	MergeSort(arr, len);
 	display(arr,len);
 	return 0;
 }
