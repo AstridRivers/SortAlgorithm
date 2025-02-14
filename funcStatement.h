@@ -6,7 +6,7 @@ void SelectionSort(int*, int);//选择排序
 void InsertionSort(int*, int);//插入排序
 void ShellSort(int*, int);//希尔排序
 void MergeSort(int arr[], int);//归并排序
-
+void CountingSort(int arr[], int);//计数排序
 void display(const int*,int);//遍历数组
 
 #endif // !__FUNCSTATEMENT_H_

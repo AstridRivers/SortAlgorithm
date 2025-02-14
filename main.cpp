@@ -10,7 +10,8 @@ int main() {
 	display(arr, len);
 	//InsertionSort(arr, len);
 	//ShellSort(arr, len);
-	MergeSort(arr, len);
+	//MergeSort(arr, len);
+	CountingSort(arr, len);
 	display(arr,len);
 	return 0;
 }
